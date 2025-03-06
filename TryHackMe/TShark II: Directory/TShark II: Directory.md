@@ -117,8 +117,6 @@ Let's go to the behaviour tab. You might encounter some sandboxes. Uncheck all o
 ### Hopefully, this write-up has been useful and gave you great insights and inspired you to get your hands dirty to get skills in cyber security.
 ### This is my first time writing it so, I appreciate every feedback using the discord app or through the TryHackMe platform, add me and let's get some great content to expand the cyber security community.
 
-``` HTML
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2570404" style='border:none;'></iframe>
-```
+<img src="https://tryhackme-badges.s3.amazonaws.com/DrJpp.png" alt="Your Image Badge" />
 
 ## **Keep learning, stay safe and have fun learning!!**
